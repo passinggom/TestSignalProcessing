@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1504692462 source:c:\stx_works\testcode\testadc\main.cpp
+	<cmath>
+	<iomanip>
+	"polyfit.c"
+	"testADC.h"
+	"stdlib.h"
+	"memory.h"
+
+1504693337 c:\stx_works\testcode\testadc\testadc.h
+	<iostream>
+	<vector>
+
+1504672774 c:\stx_works\testcode\testadc\polyfit.cpp
+	<stdio.h>
+	<math.h>
+	<memory.h>
+	<stdlib.h>
+
+1504673056 source:c:\stx_works\testcode\testadc\polyfit.c
+	<stdio.h>
+	<math.h>
+	<memory.h>
+	<stdlib.h>
+
+1504673056 c:\stx_works\testcode\testadc\polyfit.c
+	<stdio.h>
+	<math.h>
+	<memory.h>
+	<stdlib.h>
+
+1504673056 source:c:\stx_works\testcode\testadc_full_xcorr\polyfit.c
+	<stdio.h>
+	<math.h>
+	<memory.h>
+	<stdlib.h>
+
+1504777426 source:c:\stx_works\testcode\testadc_full_xcorr\main.cpp
+	<cmath>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	"polyfit.c"
+	"testADC.h"
+	"stdlib.h"
+	"memory.h"
+
+1504673056 c:\stx_works\testcode\testadc_full_xcorr\polyfit.c
+	<stdio.h>
+	<math.h>
+	<memory.h>
+	<stdlib.h>
+
+1504777455 c:\stx_works\testcode\testadc_full_xcorr\testadc.h
+	<iostream>
+	<vector>
+
